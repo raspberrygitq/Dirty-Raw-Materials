@@ -4,7 +4,7 @@
         "description": "Fresh Raw Materials Item resources.",
         "supported_formats": {
             "min_inclusive": 15,
-            "max_inclusive": 40
+            "max_inclusive": 41
         }
     }
 }
